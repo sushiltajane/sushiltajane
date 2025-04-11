@@ -15,7 +15,7 @@ I'm always open to exploring **new opportunities** in **Software Development, Cl
 
 ## 📫 Connect with Me  
 - 📧 **Email:** sushiltajane569@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/sushiltajane](#)  
+- 🔗 **LinkedIn:** [linkedin.com/in/sushil-tajane](#)  
 - 🐙 **GitHub:** [github.com/sushiltajane](#)  
 
 ✨ **Let's build something amazing together!** 🚀  

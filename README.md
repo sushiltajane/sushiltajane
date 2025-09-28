@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sushil Tajane!  
 
 ## 🚀 About Me  
-I'm a **Final Year Computer Science (AIML) Student** passionate about software development and DevOps. Currently, I'm working as a **Software Development Intern** at **Techimo Transformations, Pune**.  
+I'm a **2025 B.Tech Graduated Computer Science (AIML) Student** passionate about software development and DevOps. Currently, I'm working as a **DevOps Intern** at **CloudMaven**.  
 
 ## 💻 Tech Stack & Skills  
 ### 🔹 Web Development  
@@ -15,7 +15,7 @@ I'm always open to exploring **new opportunities** in **Software Development, Cl
 
 ## 📫 Connect with Me  
 - 📧 **Email:** sushiltajane@example.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sushil-tajane)  
+- 🔗 **LinkedIn:** [linkedin.com/in/sushil-tajane](https://www.linkedin.com/in/sushil-tajane)  
 - 🐙 **GitHub:** [github.com/sushiltajane](https://github.com/sushiltajane)  
 
 ✨ **Let's build something amazing together!** 🚀  
